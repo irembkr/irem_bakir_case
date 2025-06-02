@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 53.728 s <<< FAILURE! - in TestSuite
+tests.InsiderTest.testQAJobsFlow  Time elapsed: 23.454 s  <<< FAILURE!
+org.openqa.selenium.TimeoutException: 
+Expected condition failed: waiting for element to be clickable: By.xpath: //li[contains(@class,'select2-results__option') and normalize-space(text())='Istanbul, Turkiye'] (tried for 3 second(s) with 500 milliseconds interval)
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '24.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.55, chrome: {chromedriverVersion: 137.0.7151.55 (254bc711794d..., userDataDir: C:\Users\bakir\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61477}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61477/devtoo..., se:cdpVersion: 137.0.7151.55, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 35d4c646e34e97df190d0291dd7cf00f
+	at tests.InsiderTest.testQAJobsFlow(InsiderTest.java:90)
+

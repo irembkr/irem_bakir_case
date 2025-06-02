@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="edc5b9c2-cb9c-4cec-bb5f-e9414c76f410" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2xq1F4fv8d5pbwEYZN0cJ6t1VSt" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.irem_bakir_case [org.apache.maven.plugins:maven-clean-plugin:3.2.0:clean].executor": "Run",
+    "Maven.irem_bakir_case [org.apache.maven.plugins:maven-surefire-plugin:3.0.0-M5:test].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "TestNG.C:/Users/bakir/IdeaProjects/irem_bakir_case/src/test/resources/testng.xml.executor": "Run",
+    "TestNG.C:/Users/bakir/IdeaProjects/irem_bakir_case/testng.xml.executor": "Run",
+    "TestNG.InsiderTest.executor": "Run",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/bakir/IdeaProjects/irem_bakir_case",
+    "onboarding.tips.debug.path": "C:/Users/bakir/IdeaProjects/irem_bakir_case/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.3448276",
+    "settings.editor.selected.configurable": "editor.reader.mode"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bakir\IdeaProjects\irem_bakir_case\src\test\resources" />
+      <recent name="C:\Users\bakir\IdeaProjects\irem_bakir_case\src\test" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="edc5b9c2-cb9c-4cec-bb5f-e9414c76f410" name="Changes" comment="" />
+      <created>1748650683784</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1748650683784</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

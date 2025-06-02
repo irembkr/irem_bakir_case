@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Test Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="Insider Test(failed)" verbose="0">
+    <classes>
+      <class name="tests.InsiderTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="testQAJobsFlow"/>
+          <include name="afterAllTests"/>
+        </methods>
+      </class> <!-- tests.InsiderTest -->
+    </classes>
+  </test> <!-- Insider Test(failed) -->
+</suite> <!-- Failed suite [Test Suite] -->

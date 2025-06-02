@@ -1,0 +1,6 @@
+pages\CorePage.class
+pages\QAJobsPage.class
+org\example\Main.class
+pages\CareersPage.class
+pages\JobDetailPage.class
+pages\MainLandingPage.class
