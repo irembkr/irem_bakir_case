@@ -12,7 +12,7 @@
 
 To run the test suite and generate test reports, follow these steps:
 
-1. Open a terminal (or command prompt).
+1. Open a terminal.
 2. Navigate to the root directory of the project.
 3. Run the following Maven command:
 
