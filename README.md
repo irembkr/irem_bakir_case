@@ -4,6 +4,7 @@
 - Selenium 4.19.1  
 - TestNG 7.7.1  
 - Maven Surefire Plugin 3.0.0-M5
+- Intellij IDEA
 
   ## After successful execution, the report files will be available at: target/surefire-reports/
 
