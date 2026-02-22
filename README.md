@@ -1,4 +1,4 @@
-# Insider QA Automation Assessment
+# Insider QA Automation
 
 ## Project Overview
 
